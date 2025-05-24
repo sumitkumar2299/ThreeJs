@@ -26,3 +26,7 @@ const renderer = new THREE.WebGLRenderer({canvas:target});
 renderer.setSize(size.width,size.height)
 renderer.render(scene,camera);
 
+// now we have to start making project of threejs using react 
+
+
+
