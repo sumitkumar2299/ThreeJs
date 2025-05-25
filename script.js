@@ -12,7 +12,9 @@ scene.add(box)
 const size = {
     width:700,
     height:500
-}
+};
+
+
 
 const camera = new THREE.PerspectiveCamera(75,size.width/size.height);
 camera.position.z = 4;
